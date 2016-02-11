@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    eventmachine (1.0.9.1)
+    json (1.8.3)
+    rethinkdb (2.2.0.3)
+      json
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  eventmachine
+  rethinkdb
+
+BUNDLED WITH
+   1.10.6
